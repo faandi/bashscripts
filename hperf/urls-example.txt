@@ -1,0 +1,4 @@
+http://myserver/mywebservice/test.php?q=1
+http://myserver/mywebservice/test.php?q=2
+http://myserver/mywebservice/test.php?q=3
+http://myserver/mywebservice/test.php?q=4
