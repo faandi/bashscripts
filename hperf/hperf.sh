@@ -4,7 +4,7 @@
 # Http load testing using siege.
 #
 # Example usage:
-# hperf -n "TestApache" -f dvbt2api-testurls-dvbt2_azure-top1000.txt
+# hperf -n "TestMyWebservice" -f urls-example.txt
 #
 # Author: Andreas Fachathaler
 # Date: 2013-04-18

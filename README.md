@@ -1,10 +1,12 @@
 bashscripts
 ===========
-
 Various simple bash scripts
-
-hperf:
-
-Http load testing using siege.
+hperf
+-
+Http load testing using [siege] [1].
 Example usage:
-hperf -n "TestApache" -f dvbt2api-testurls-dvbt2_azure-top1000.txt
+```
+hperf -n "TestMyWebservice" -f urls-example.txt
+```
+
+  [1]: http://www.joedog.org/siege-home/
